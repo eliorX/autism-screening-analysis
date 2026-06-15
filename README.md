@@ -163,7 +163,6 @@ The Excel dashboard includes:
 - Risk factor summary table (COUNTIFS — jaundice and family history vs ASD outcome)
 - Written findings summary
 
-> Screenshot of the dashboard: *(add your screenshot here after uploading)*
 
 ---
 
